@@ -20,3 +20,10 @@ What staff should have what permissions (e.g. should a staff member who's job is
 ## What information is missing?
 Which staff members should be given these permissions, should this also apply to active booking? (Bookings that are currently in progress), should this be able to overwrite a students pending booking?
 
+# Develop functional requirements
+## "The technician needs to know whether equipment is available before confirming a booking"
+WHO: The Technician
+WHAT: To know if booking is available
+WHEN: Before confirming a booking
+WHY: So that the technician will not double book equipment
+HOW WILL WE KNOW: By inquiring if there has been any issues to do with double booking as of recent
