@@ -37,30 +37,32 @@ Local Community:  Volunteers benefit them greatly, get to participate in organis
 
 
 ### Possible conflict between Stakeholders
-
+The organisers may want more control over the allocation of work and the volunteers may want to assign themselves
 
 ## 5. Goals
-
+Make a software with an interface that 90% of trained users should be able to navigate without issue
 
 ## 6. Scope
 
 
 ### In Scope:
-
+There's no clear way to see what activities are in need of assistants
+Some activities want volunteers with a certain skillset
+Volunteers have no way to show if they are currently available to work or not 
+The process of matching volunteers to activities is time consuming for Organisers
 
 ### Out of Scope:
-
+A way to view what jobs are near you 
 
 ## 7. Candidate requirements
 
 
 ## Functional Requirements
-
+The system shall allow Organisers to match volunteers with activities that they think suits best
+The system shall allow Volunteers to display when they are available to work
+The system shall allow Volunteers to see which activities are currently in need of more assistance
+The system shall allows Volunteers of certain skillsets to apply themselves to those activities needing them
 
 ## Non-Functional Requirements
-
-
-## 8. Requirements Surgery
-
-
-## 9. Reflection
+One location to store the needed information of the Volunteers in opposition to the current scattered system 
+A more time efficient process for Organisers to assign volunteers to activities
