@@ -13,6 +13,7 @@ Stakeholder: Local Community
 Role: The local community benefit from having Volunteers work on activities that are going on around the area 
 Direct user?: No
 Possible care: They would benefit from the process of organising Volunteers being sped up and made more efficient
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 #2. Unknowns
 Unknown 1: Are Volunteers able to manually assign themselves to work?
