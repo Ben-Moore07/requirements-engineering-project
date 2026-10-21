@@ -22,8 +22,23 @@ Unknown 2: Should members of the community be able to post their Activities on t
 Unknown 3: How do Volunteers sign up to join the organisation?
 
 #3. Who could answer these questions?
+Unknown 1: Are Volunteers able to manually assign themselves to work?
+Potential Source: Organisers
 
+Unknown 2: Should members of the community be able to post their Activities on the website themselves?
+Potential Source: Organisers
+
+Unknown 3: How do Volunteers sign up to join the organisation?
+Potential Source: Volunteers
 
 
 #4. Elicitation questions
 How would a Volunteer who wishes to, sign up to join the organisation?
+
+What data is stored for Volunteers Currently and where is it stored? 
+
+How do you currently verify if a volunteer is fit for the activity they wish to work on?
+
+How does an activity become active and available to your volunteers 
+
+What part of organising the volunteers is the most time consuming at the moment?
