@@ -34,6 +34,7 @@ What's the process of someone becoming a volunteer? Are they provided training?
 Organisers: Keeping Track of volunteer, Assigning Volunteers
 Volunteers:  Knowing what activities are available, knowing what 
 Local Community:  Volunteers benefit them greatly, get to participate in organised events
+Local Council: Volunteer organisations benefit the town which will also help the council
 
 
 ### Possible conflict between Stakeholders
