@@ -1,5 +1,12 @@
 # Week 3 — Requirements Analysis and Specification
 ## 1. Information from Week 2
+The 3 biggest stakeholders seem to be:
+
+The Organisers who need the system to help them assign Volunteers to work, specify when work need a person of certain skills and need to know the current status of activities (Direct user)
+
+The Volunteers who need a clearer way to communicate with the Organisers, letting the Organisers know when they are/are not able to work, as well as knowing what activities are available and suit their skillset (Direct user)
+
+The local community who need a place for their activities to be seen and assigned Volunteers, the Organisers being able to quickly assign Volunteers of suitable skillsets to these activities will benefit the local community greatly as productivity increases 
 
 ## 2. Candidate Requirements
 CR01 - The system should allow authorized users to post activities needing help and update those posts as time goes on (This technically has not been confirmed)
