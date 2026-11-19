@@ -1,1 +1,6 @@
-Notes from week 6 go here
+For the activity diagram I had chosen the process of how an Activity would be assigned to a Volunteer.
+The Organizers can create activities on the application as well as assign Volunteers to this activity.
+One or many Volunteers can work on one activity
+it is currently candidate whether or not members of the local community can create activities or if an Organiser needs to be the one to create it 
+The system will need to record the Availability status of the Volunteers, as well as who they are and what skills they have that 
+would be beneficial to certain activities
