@@ -1,0 +1,5 @@
+My Prototype is displaying FR01 - The system should have a way to allow Organizers to match Volunteers to an activity, Showing the process of 
+assigning Volunteers to activities, it goes through the process of seeing the current Activities that are needing assistance,
+filtering volunteers by if they are available and then filtering them by qualifications (In this case being a community bake sale, it is filtered to someone with baking experience)
+This has also given me the idea for CR02 - Volunteers having a displayable profile that will allow organizers to view their name, qualifications as well as 
+a short self written description about themselves, I have marked my 04 drawio diagram as candidate for this reason.
