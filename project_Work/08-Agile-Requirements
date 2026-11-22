@@ -1,0 +1,15 @@
+## 2 NFRs Chosen 
+QR01 - The system should have an interface that trained users can feel comfortable using and accessing 
+QR02 - The system should allow Volunteers to view all of their information that is being stored, 
+and allow them to opt out of certain information being held if they feel is not needed
+
+## Why do they matter? 
+These NFRs matter so that the System can be useable by it's intended users efficiently without causing mass issue
+and also to ensure that the data is kept and hekd responsibly as needed to comply with GDPR Regulations 
+
+## Must, Should, or Could? 
+QR01 - Should, while the system would still work without the training of the users, it would be much less efficient and cause
+long term issue if left untested and unchecked 
+
+QR02 - Must, Due to the regulations of the GDPR, Any stored data if a user must be available within one month of making a data access request 
+
